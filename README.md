@@ -85,5 +85,5 @@ _(Coming soon: deployed link + dashboard screenshots)_
 
 **Abhishek Yadav**  
 Full-Stack Developer | Java | Spring Boot | AI Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/your-profile) *(update later)*
+[LinkedIn] www.linkedin.com/in/abhishek-yadav-4b30b0310
 
