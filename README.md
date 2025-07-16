@@ -70,14 +70,14 @@ resume-ranker-ai/
 ## 🌐 Deployment (Planned)
 
 - Backend: Render / Railway
-- Frontend: Netlify
+- Frontend: Netflix
 - DB: Supabase or Railway PostgreSQL
 
 ---
 
 ## 📸 Preview
 
-_(Coming soon: deployed link + dashboard screenshots)_
+ (Coming soon: deployed link + dashboard screenshots)
 
 ---
 
